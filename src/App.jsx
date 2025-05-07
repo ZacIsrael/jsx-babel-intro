@@ -8,7 +8,11 @@ function App() {
 
   return (
     <>
-      <div>
+    <div>
+      <h1>Hello World!</h1>
+      <p>I am freshening up on React. I see that a lot has changed since I last used React.</p>
+    </div>
+      {/* <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
@@ -27,7 +31,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
-      </p>
+      </p> */}
     </>
   )
 }
